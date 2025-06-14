@@ -2,7 +2,7 @@
 
 I’m a **Software Engineer** who loves building scalable, high-performance systems. With experience across **Java, Spring Boot, ReactJS, Kafka, Redis, MySQL**, and more, I specialize in crafting backend solutions that are **fast, reliable, and secure**.
 
-💻 I’ve worked on everything from RESTful APIs to full-stack web apps, both independently and as part of dynamic teams. During my internships at **TORQ Sports**, **NERDS Lab at the University of Cincinnati**, and **Cognizant**, I’ve:
+💻 I’ve worked on everything from RESTful APIs to full-stack web apps, both independently and as part of dynamic teams. During my internships at **TORQ Sports**, **NERDS at the University of Cincinnati**, and **Cognizant**, I’ve:
 
 * Reduced SQL response times by up to **40%**
 * Enabled **70% better traceability** via structured HTTP logging
