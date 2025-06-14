@@ -1,6 +1,14 @@
-# Vamsi Makke 
-Hello! I'm Vamsi Makke, a passionate and detail-oriented Software Engineer with expertise in Java, Spring Boot, ReactJS, and a variety of other modern technologies. Currently pursuing my Master of Science in Information Technology, I have hands-on experience in building scalable, high-performance applications using tools like Apache Kafka, Docker, MySQL, and Redis.
+### 👋 Hey there, I'm Vamsi Makke!
 
-In addition to my academic knowledge, I have worked as a Software Engineer Intern at Cognizant Technology Solutions and NERDS at the University of Cincinnati, where I contributed to full-stack web applications, API development, and CI/CD pipeline optimization. I'm passionate about leveraging my skills to solve complex problems, improve system performance, and contribute to innovative projects.
+I’m a **Software Engineer** who loves building scalable, high-performance systems. With experience across **Java, Spring Boot, ReactJS, Kafka, Redis, MySQL**, and more, I specialize in crafting backend solutions that are **fast, reliable, and secure**.
 
-When I’m not coding, you’ll find me exploring the latest in tech, solving algorithms on LeetCode, or cheering for FC Barcelona!
+💻 I’ve worked on everything from RESTful APIs to full-stack web apps, both independently and as part of dynamic teams. During my internships at **TORQ Sports**, **NERDS Lab at the University of Cincinnati**, and **Cognizant**, I’ve:
+
+* Reduced SQL response times by up to **40%**
+* Enabled **70% better traceability** via structured HTTP logging
+* Improved API performance with **Redis caching** and **Kafka streaming**
+
+🎓 Recently completed my **Master’s in Information Technology** at the **University of Cincinnati** (GPA: **4.0/4.0**), I’m passionate about solving complex problems — with **1300+ LeetCode challenges** solved and a global ranking in the **top 7.5%**.
+
+⚽ When I’m not coding, you’ll catch me solving algorithms, exploring cloud tech, or cheering for **FC Barcelona**!
+
