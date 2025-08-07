@@ -1,28 +1,28 @@
-Hi, I’m Vamsi Makke 👋. I’m a backend engineer who builds systems that stay fast, scalable, and don’t freak out when real users actually show up. I work with Java, Spring Boot, Kafka, Redis, and SQL. If it runs on the backend and can be optimized, I’ve probably poked at it ⚙️.
+Hi, I’m Vamsi Makke 👋. I’m a backend engineer who builds systems that are fast, reliable, and don’t freak out when lots of people use them. I work with Java, Spring Boot, Kafka, Redis, and SQL. If it runs behind the scenes and can be made better, I’m on it ⚙️.
 
-I recently finished my Master’s in Information Technology at the University of Cincinnati with a perfect 4.0 GPA 🎓. Along the way, I solved over 1,300 LeetCode problems and landed in the top 7.5 percent worldwide. Mostly because I like turning brain-benders into warm-up exercises 💪.
+I finished my Master’s in Information Technology at the University of Cincinnati with a 4.0 GPA 🎓. I’ve also solved over 1,300 LeetCode problems and ranked in the top 7.5 percent worldwide. I guess I like solving puzzles more than I should 💪.
 
-Here’s what I actually did during my internships:
+Here’s what I worked on during my internships:
 
 **TORQ Sports, Software Engineering Intern 🚀**
 
-- Built a TikTok-style home feed algorithm from scratch using rank-based sorting, cursor pagination, and engagement signals. User activity shot up by 50 percent 📈  
-- Tamed some painfully slow SQL queries and slashed response times by 55 percent ⏱️  
-- Locked down API endpoints with strict validation and token checks, making it harder for attackers and easier for users 🔒  
-- Cut page load times by 40 percent by cleaning up API-to-database chatter ⚡
+- Built a home feed algorithm from scratch that sorts content and shows the right stuff at the right time. It helped increase user activity by 50 percent 📈  
+- Fixed slow SQL queries and made them 55 percent faster ⏱️  
+- Made API endpoints more secure with better validation and token checks 🔒  
+- Cut page load times by 40 percent by cleaning up how the API talks to the database ⚡
 
 **NERDS, University of Cincinnati, Software Engineer Intern 🧪**
 
-- Crafted Spring Boot and Python APIs to handle sensitive research data safely and swiftly 🔧  
-- Used Kafka and Redis to speed up API responses by 40 percent, because nobody likes waiting 🚀  
-- Deployed services on AWS EC2 and containerized everything with Docker so scaling didn’t turn into a disaster ☁️  
-- Automated deployments with GitHub Actions to avoid those “it works on my machine” moments 🤖
+- Made APIs with Spring Boot and Python to handle research data safely and quickly 🔧  
+- Used Kafka and Redis to speed up API responses by 40 percent 🚀  
+- Deployed services on AWS and used Docker to keep everything running smoothly as we grew ☁️  
+- Automated deployments with GitHub Actions so we could release faster and with less stress 🤖
 
 **Cognizant Technology Solutions, Software Engineer Intern 💼**
 
-- Created a full-stack web app using Spring Boot, React, and MySQL that boosted user engagement by 30 percent 📊  
-- Rewrote sluggish SQL queries and optimized indexes to make the database breathe easier 🛠️  
-- Built backend logic and Python scripts to monitor performance and catch issues before they became fires 👀  
-- Survived Agile sprints, shipped production code, reviewed teammates’ work, and squashed bugs without losing my mind 👨‍💻
+- Built a full-stack web app with Spring Boot, React, and MySQL that got users more engaged 📊  
+- Improved slow SQL queries and optimized indexes so the database worked better 🛠️  
+- Created backend tools and scripts to watch system performance and fix problems quickly 👀  
+- Worked in Agile teams, shipped features, reviewed code, and fixed bugs without losing my cool 👨‍💻
 
-When I’m not writing code, you’ll find me tweaking cloud infrastructure, chasing down algorithm edge cases, or yelling at FC Barcelona like I’m their unpaid tactical advisor ⚽🔥.
+When I’m not coding, I’m usually messing with cloud setups, solving algorithm problems, or yelling at FC Barcelona like I’m their coach ⚽🔥.
