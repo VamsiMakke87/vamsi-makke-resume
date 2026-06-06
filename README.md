@@ -6,7 +6,7 @@ Here's what I've worked on:
 
 **TORQ Sports, Software Engineer 🚀**
 
-- Own the entire backend infrastructure — 4 microservices, 80+ database tables, serving 15,000+ monthly active users 💪
+- Own the entire backend infrastructure - 4 microservices, 80+ database tables, serving 15,000+ monthly active users 💪
 - Rebuilt the video pipeline into a two-phase architecture, cutting user upload wait times by 85% (105s → 15s) ⚡
 - Reduced p95 API latency from 1s to 300ms through PostgreSQL query tuning and Redis caching ⏱️
 - Built real-time chat with WebSockets, push notifications (50k+/day), and RAG pipelines using AWS Bedrock 🔧
